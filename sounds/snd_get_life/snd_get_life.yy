@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_get_life",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.326553,
+  "name":"snd_get_life",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_get_life.ogg",
+  "type":0,
+  "volume":1.0,
+}
